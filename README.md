@@ -1,4 +1,3 @@
-Graph-Generator
 A program to generate interactive graphs from CSV files using Chart.js and Node.js.
 
 Installation
